@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pratap Darjee
+- 👋 Hi, I’m @Pratap Darjee
 - 👀 I’m interested in Full stack Web development 
 - 🌱 I’m currently learning and improving my MERN stack skills and devOPs
 - 💞️ I’m looking to collaborate on Web applications
